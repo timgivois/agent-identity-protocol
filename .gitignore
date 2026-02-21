@@ -1,1 +1,9 @@
-venv/\n*.db\n.env\n__pycache__/\n*.pyc\n.pytest_cache/
+venv/
+*.db
+.env
+__pycache__/
+*.pyc
+.pytest_cache/
+*.egg-info/
+dist/
+.DS_Store
